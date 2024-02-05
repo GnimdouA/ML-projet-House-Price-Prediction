@@ -1,5 +1,5 @@
 # ML-projet-House-Price-Prediction
-Projet final du module Introduction au Machine Learning ENSAE Dakar, ISE2, 2023/2024. Réalisé par le groupe 4 composer de  Ange Gnimdou KABASSINA &amp; Isabelle Danielle MOSSE &amp; Moustapha WADE &amp;  Durel Valdez NZIALI TCHAMOU. Sous la supervision de Madame MOUSLY DIAW (Data scientist)
+Projet final du module Introduction au Machine Learning ENSAE Dakar, ISE2, 2023/2024. Réalisé par le groupe 4 composer de  Ange Gnimdou KABASSINA &amp; Isabelle Danielle MOSSE &amp; Moustapha WADE &amp;  Durel Valdes NZIALI TCHAMOU. Sous la supervision de Madame MOUSLY DIAW (Data scientist)
 
 Vous êtes data scientist chez Laplace Immo, un réseau national d’agences immobilières.
 Demandez à un acheteur de décrire la maison de ses rêves et il ne commencera probablement pas par la
