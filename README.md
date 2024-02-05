@@ -1,5 +1,5 @@
 # ML-projet-House-Price-Prediction
-Projet final du module Introduction au Machine Learning ENSAE Dakar, ISE2, 2023/2024. Réalisé par le groupe 4 composer de  Ange Gnimdou KABASSINA &amp; Isabelle Danielle MOSSE &amp; Moustapha WADE &amp;  Durel Valdez NZIALI TCHAMOU
+Projet final du module Introduction au Machine Learning ENSAE Dakar, ISE2, 2023/2024. Réalisé par le groupe 4 composer de  Ange Gnimdou KABASSINA &amp; Isabelle Danielle MOSSE &amp; Moustapha WADE &amp;  Durel Valdez NZIALI TCHAMOU. Sous la supervision de Madame MOUSLY DIAW (Data scientist)
 
 Vous êtes data scientist chez Laplace Immo, un réseau national d’agences immobilières.
 Demandez à un acheteur de décrire la maison de ses rêves et il ne commencera probablement pas par la
@@ -18,9 +18,12 @@ Voici un récapitulatif de votre mission :
 Livrables attendus
 
 ● Un notebook de l'analyse exploratoire mis au propre et annoté.
+
 ● Le code (ou un notebook) des différents tests de modèles mis au propre, dans lequel vous identifierez
 clairement le modèle final choisi.
+
 ● Un support de présentation pour la soutenance.
+
 Pour faciliter votre passage au jury, déposez sur Github tous les livrables du projet. La structure du répertoire
 github est à définir mais il doit contenir au minimum un dossier appelé “notebooks” contenant les notebooks créés
 pour répondre à cette mission. A titre illustratif, vous pouvez nommer les fichiers selon l'ordre dans lequel il
