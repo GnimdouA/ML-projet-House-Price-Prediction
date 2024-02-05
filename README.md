@@ -16,6 +16,7 @@ Voici un récapitulatif de votre mission :
 2. Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
 
 Livrables attendus
+
 ● Un notebook de l'analyse exploratoire mis au propre et annoté.
 ● Le code (ou un notebook) des différents tests de modèles mis au propre, dans lequel vous identifierez
 clairement le modèle final choisi.
